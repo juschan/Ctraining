@@ -1,7 +1,7 @@
 # C Programming Essential Training
 ## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
 
-These are the exercise files used for [C Programming Essential Training]https://www.tertiarycourses.com.sg/c-programming-essential-training-in-singapore.html) course. 
+These are the exercise files used for [C Programming Essential Training](https://www.tertiarycourses.com.sg/c-programming-essential-training-in-singapore.html) course. 
 
 The course outline can be found in 
 
